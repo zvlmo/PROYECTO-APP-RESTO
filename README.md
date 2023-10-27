@@ -1,5 +1,4 @@
-# digirolamo.matias.primerparcial
-Primer Parcial Laboratorio ||
+
 
 <h1>GESTIOREST - RESTAURANTES CRUD</h1>
 
