@@ -5,7 +5,7 @@
 __Sobre mi__
 
 <p>Mi nombre es Matias Di Girolamo, tengo 20 años, soy estudiante de programacion en la Universidad Tecnologica Nacional hace 3 cuatrimestres,
-  siempre fui fanatico de la tecnologia y antes de anotarme en la Tecnicatura hice un curso autodidacta de programacion Front-End, luego el cuatrimestre pasado curse PYTHON y ahora estoy viendo ASP.NET Y C# </p>
+  siempre fui fanatico de la tecnologia y antes de anotarme en la Tecnicatura hice un curso autodidacta de programacion Front-End, luego el cuatrimestre pasado curse PYTHON y ahora estoy viendo .NET Y C# </p>
 
 __Resumen__
 
