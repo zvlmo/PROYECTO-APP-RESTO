@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiGirolamo.Matias.Restaurante" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DiGirolamo.Matias.Parrilla">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DiGirolamo.Matias.FastFood">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DiGirolamo.Matias.Bar">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FrmLogin.FrmAgregar">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>9AAgAIAIACCGoJgABAiQIAAyACBAAAAASAghAAVAAIA=</HashCode>
+      <FileName>FrmAgregar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmLogin.FrmCrud">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAYAIgCCQCDgAQAKUAGEKCABAAAAAAxgiIAAESAQ=</HashCode>
+      <FileName>FrmCrud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmLogin.FrmLogin">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAEAAACAAABAAAACAAAACAAAIAAAAAGAAACAAIBQ=</HashCode>
+      <FileName>FrmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmLogin.Program">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrmLogin.Usuario">
+    <Position X="15.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQBAACAAAAAAAAAAAQAAACAAAAQAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EEstado">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="FrmLogin.FrmLogs">
+    <Position X="16.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAAAAAAABCAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FrmLogs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiGirolamo.Matias.CadenaRestaurantes">
+    <Position X="6.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

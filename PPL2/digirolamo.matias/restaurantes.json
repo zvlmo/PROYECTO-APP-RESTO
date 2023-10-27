@@ -1,0 +1,11 @@
+[
+  {
+    "HappyHour": false,
+    "CantTragos": 15,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 29,
+    "Nombre": "Kinder Esteban",
+    "Estado": 1
+  }
+]

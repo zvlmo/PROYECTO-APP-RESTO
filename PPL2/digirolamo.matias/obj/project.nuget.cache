@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oncdfz/aYm9EBm1cassjY8D+CSQ3jp2qsRXUgijxm1Gr3CDwUnq6a4kFvL7PUsczRbB2kfecVyxrUd94oQ/nyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathm\\OneDrive\\Escritorio\\PPL2\\digirolamo.matias\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

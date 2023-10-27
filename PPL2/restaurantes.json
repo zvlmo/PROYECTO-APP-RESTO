@@ -1,0 +1,89 @@
+[
+  {
+    "HappyHour": false,
+    "CantTragos": 12,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 123,
+    "Nombre": "matias",
+    "Estado": 1
+  }
+]
+[
+  {
+    "HappyHour": false,
+    "CantTragos": 12,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 123,
+    "Nombre": "Jose",
+    "Estado": 1
+  }
+]
+[
+  {
+    "MenuVegano": false,
+    "CantGuarniciones": 12,
+    "TipoRestaurante": "PARRILLA",
+    "Reserva": false,
+    "Capacidad": 12,
+    "Nombre": "Matias",
+    "Estado": 1
+  },
+  {
+    "HappyHour": true,
+    "CantTragos": 13,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 33,
+    "Nombre": "Ariel",
+    "Estado": 0
+  },
+  {
+    "ComboParaNinios": false,
+    "CantCombos": 5,
+    "TipoRestaurante": "Comida Rapida",
+    "Reserva": true,
+    "Capacidad": 100,
+    "Nombre": "Carlitos",
+    "Estado": 1
+  }
+]
+[
+  {
+    "ComboParaNinios": false,
+    "CantCombos": 8,
+    "TipoRestaurante": "Comida Rapida",
+    "Reserva": false,
+    "Capacidad": 55,
+    "Nombre": "Manuel",
+    "Estado": 1
+  },
+  {
+    "HappyHour": false,
+    "CantTragos": 15,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 80,
+    "Nombre": "Panasovich",
+    "Estado": 1
+  },
+  {
+    "HappyHour": true,
+    "CantTragos": 10,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 123,
+    "Nombre": "Carlos",
+    "Estado": 1
+  },
+  {
+    "MenuVegano": true,
+    "CantGuarniciones": 9,
+    "TipoRestaurante": "PARRILLA",
+    "Reserva": false,
+    "Capacidad": 200,
+    "Nombre": "Carlitos",
+    "Estado": 1
+  }
+]
