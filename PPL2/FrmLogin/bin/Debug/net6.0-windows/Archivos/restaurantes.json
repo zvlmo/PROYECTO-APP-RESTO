@@ -1,0 +1,11 @@
+[
+  {
+    "HappyHour": false,
+    "CantTragos": 12,
+    "TipoRestaurante": "BAR",
+    "Reserva": true,
+    "Capacidad": 20,
+    "Nombre": "Prueba",
+    "Estado": 1
+  }
+]

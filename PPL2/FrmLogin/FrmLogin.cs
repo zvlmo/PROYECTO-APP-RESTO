@@ -60,8 +60,7 @@ namespace FrmLogin
         /// <returns>Una lista de usuarios deserializada desde un archivo JSON.</returns>
         private List<Usuario> DescerializarJSON()
         {
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            path = Path.Join(path, "PPL2", "MOCK_DATA.json");
+            string path = Path.Join("Archivos", "MOCK_DATA.json");
             listaUsuarios = JsonConvert.DeserializeObject<List<Usuario>>(File.ReadAllText(path));
             return listaUsuarios;
         }

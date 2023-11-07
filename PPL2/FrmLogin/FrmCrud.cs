@@ -95,10 +95,12 @@ namespace FrmLogin
             {
                 return;
             }
-
-
-            this.restauranteList.RemoveAt(indice);//recibe un entero 
-            this.ActualizarVisor();
+            DialogResult dialogResult = MessageBox.Show("Esta seguro que desea eliminar!?","ADVERTENCIA",MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
+            {
+                this.restauranteList.RemoveAt(indice);//recibe un entero 
+                this.ActualizarVisor();
+            }
 
         }
 
@@ -134,8 +136,7 @@ namespace FrmLogin
         /// </summary>
         private void DataSerializer(List<Restaurante> resto)
         {
-            string rutaArchivoLog = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            rutaArchivoLog = Path.Join(rutaArchivoLog, "PPL2", "restaurantes.json");
+            string rutaArchivoLog = Path.Join("Archivos","restaurantes.json");
             using (StreamWriter sw = new StreamWriter(rutaArchivoLog, true))
             {
                 string json = JsonConvert.SerializeObject(resto, Formatting.Indented);
@@ -213,8 +214,7 @@ namespace FrmLogin
         {
             DateTime fechaHoraActual = DateTime.Now;
             string fechaHoraFormateada = fechaHoraActual.ToString("yyyy-MM-dd HH:mm:ss");
-            string rutaArchivoLog = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            rutaArchivoLog = Path.Join(rutaArchivoLog, "PPL2", "usuarios.log");
+            string rutaArchivoLog = Path.Join("Archivos", "usuarios.log");
             try
             {
                 using (StreamWriter sw = File.AppendText(rutaArchivoLog))

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="DiGirolamo.Matias.Restaurante" Collapsed="true">
-    <Position X="6" Y="1.5" Width="1.5" />
+  <Class Name="DiGirolamo.Matias.Restaurante">
+    <Position X="6.25" Y="1.25" Width="1.5" />
     <TypeIdentifier />
   </Class>
   <Class Name="DiGirolamo.Matias.Parrilla">
@@ -9,7 +9,7 @@
     <TypeIdentifier />
   </Class>
   <Class Name="DiGirolamo.Matias.FastFood">
-    <Position X="6.25" Y="3.25" Width="1.5" />
+    <Position X="6.25" Y="4.75" Width="1.5" />
     <TypeIdentifier />
   </Class>
   <Class Name="DiGirolamo.Matias.Bar">
@@ -38,7 +38,7 @@
   <Class Name="FrmLogin.FrmCrud">
     <Position X="13" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>BAQAAYAIgCCQCDgAQAKUAGEKCABAAAAAAxgiIAAESAQ=</HashCode>
+      <HashCode>BAQAAYAIgCCQCBgAQAKUAGEKCABAAAAAAxgiIAAESAQ=</HashCode>
       <FileName>FrmCrud.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -63,10 +63,6 @@
       <FileName>Usuario.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="EEstado">
-    <Position X="8.5" Y="0.75" Width="1.5" />
-    <TypeIdentifier />
-  </Class>
   <Class Name="FrmLogin.FrmLogs">
     <Position X="16.75" Y="6.5" Width="1.5" />
     <TypeIdentifier>
@@ -75,7 +71,11 @@
     </TypeIdentifier>
   </Class>
   <Class Name="DiGirolamo.Matias.CadenaRestaurantes">
-    <Position X="6.25" Y="6.75" Width="1.5" />
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EEstado">
+    <Position X="8.25" Y="1" Width="1.5" />
     <TypeIdentifier />
   </Class>
   <Font Name="Segoe UI" Size="9" />

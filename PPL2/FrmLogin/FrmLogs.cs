@@ -22,8 +22,7 @@ namespace FrmLogin
         public FrmLogs()
         {
             InitializeComponent();
-            string rutaArchivoLog = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            rutaArchivoLog = Path.Join(rutaArchivoLog, "PPL2", "usuarios.log");
+            string rutaArchivoLog = Path.Join("Archivos", "usuarios.log");
             listBox1.Items.Clear();
 
             if (File.Exists(rutaArchivoLog))
